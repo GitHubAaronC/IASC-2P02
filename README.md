@@ -7,3 +7,7 @@ I am an Assistant Professor in Digital Humanities in the Centre for Digital Huma
 ### Blog post
 
 [continue reading](blog)
+
+### Solo Presentation
+
+[Slide Deck](reveal/index.html)
